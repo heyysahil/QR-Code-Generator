@@ -1,4 +1,3 @@
-#QR CODE GENERATOR
 <p align="justify">A QR CODE Generator Webpage using API</p>
 
 
